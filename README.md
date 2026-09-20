@@ -1,0 +1,1 @@
+# 2026-09-20-how-to-self-host-n8n-installation-guide-images
